@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Interact with the Contract
+The UI is currently hosted on replit and you can visit it [here.](https://waveportal-starter-project.jsiewierski11.repl.co/)
+
 ## Running on Repl.it
 
 Simply hit run once and start coding. Will hot reload the web view. 
